@@ -1,5 +1,8 @@
 Flask==2.3.2
 requests==2.31.0
 pip freeze > requirements.txt
+git add requirements.txt
+git commit -m "Add requirements.txt"
+git push origin main
 pip install flask
 Python 3.9
