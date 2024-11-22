@@ -4,5 +4,4 @@ pip freeze > requirements.txt
 git add requirements.txt
 git commit -m "Add requirements.txt"
 git push origin main
-pip install flask
-Python 3.9
+pip install flask > requirements.txt
